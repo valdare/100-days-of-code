@@ -4,8 +4,7 @@
 
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+* [Resources](resources.md)CW Q`DX DSWQW`                         `````````~~~`1Q
 
 ## I've decided to join this 100 days of code challenge, and here are the fules I'm following:
 
